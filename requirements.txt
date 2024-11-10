@@ -1,6 +1,5 @@
-setuptools
-streamlit
-numpy==1.23.5
-pandas
-scikit-learn
-distlib
+setuptools>=68.0.0
+streamlit>=1.28.0
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
